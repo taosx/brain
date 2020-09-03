@@ -1,5 +1,6 @@
 ---
 date: 2020-09-03T17:31
+tags: [programming_languages]
 ---
 
 # Rust - Programming Language
