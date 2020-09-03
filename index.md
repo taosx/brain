@@ -4,9 +4,5 @@ tags: [home]
 
 # Tasos - 2nd Brain
 
-Collection of notes, thoughts, concepts, ideas.
-
-## [[[programming_languages]]]
-
-- [[[rust]]]
-- [[[golang]]]
+Collection of notes, thoughts, concepts, ideas:
+- [[[programming_languages]]]
