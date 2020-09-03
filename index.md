@@ -4,6 +4,9 @@ tags: [home]
 
 # Tasos - 2nd Brain
 
-Collection of thoughts, concepts, ideas.
+Collection of notes, thoughts, concepts, ideas.
 
-[[[z:zettels?tag=programming_languages]]]
+## [[[programming_languages]]]
+
+- [[[rust]]]
+- [[[golang]]]
