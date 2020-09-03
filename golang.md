@@ -1,5 +1,6 @@
 ---
 date: 2020-09-03T17:52
+tags: [programming_languages]
 ---
 
 # Go - Programming Language
