@@ -6,4 +6,4 @@ tags: [home]
 
 Collection of thoughts, concepts, ideas.
 
-[[[z:zettels?tag=other]]]
+[[[z:zettels?tag=programming_languages]]]
